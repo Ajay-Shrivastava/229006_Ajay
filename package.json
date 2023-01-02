@@ -1,0 +1,23 @@
+{
+  "name": "229006_ajay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnagogicAks/229006_Ajay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnagogicAks/229006_Ajay/issues"
+  },
+  "homepage": "https://github.com/AnagogicAks/229006_Ajay#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
